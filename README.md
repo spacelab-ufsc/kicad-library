@@ -1,2 +1,3 @@
 # kicad-library
-KiCAD Library containing components .sch symbol, PCB footprint and 3D files.
+
+Spacelab's KiCAD library with sch symbols, footprints and 3D models of the components used in lab. 
