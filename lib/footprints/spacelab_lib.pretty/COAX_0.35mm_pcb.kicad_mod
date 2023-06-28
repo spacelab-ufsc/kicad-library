@@ -1,0 +1,16 @@
+(footprint "COAX_0.35mm_pcb" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0.5 -2.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 9ec7d4f3-9a08-4528-9528-d8b98483fd59)
+  )
+  (fp_text value "COAX_0.35mm" (at 1 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 2c1856da-3007-4199-b8c1-14bc2462703f)
+  )
+  (pad "0" smd rect (at 3.5 0) (size 3 2) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45) (tstamp 279804b3-5ef5-478f-9121-6895b4c90a5e))
+  (pad "1" smd rect (at 0 0) (size 3 0.9) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45) (tstamp 280fef43-72d9-4f21-8038-1819ac5b306c))
+)
